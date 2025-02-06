@@ -41,9 +41,6 @@ The dashboard is built using sales data collected from various markets, includin
 2. Use the available filters to analyze data for specific time periods.
 3. Interact with visual elements to explore trends and insights.
 
-## Screenshots
-![Dashboard Preview](Screenshot%202025-02-06%20145437.png)
-
 ## Contributing
 Feel free to contribute by suggesting enhancements or adding new features. Fork the repository, make changes, and submit a pull request.
 
